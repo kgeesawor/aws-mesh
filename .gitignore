@@ -23,3 +23,6 @@ data
 # Miscellaneous
 *.log
 *.tmp
+secrets
+db.db 
+db.db.wal 
